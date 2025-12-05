@@ -1,0 +1,22 @@
+﻿# Maven
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+backend/.idea/
+backend/*.iml
+backend/*.class
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.class
+.DS_Store
+
+# OS
+Thumbs.db
