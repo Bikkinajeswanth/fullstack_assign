@@ -1,0 +1,23 @@
+{
+  "L": 6,
+  "W": 4,
+  "tiles": [
+    {
+      "id": "A",
+      "size": 1,
+      "cost": 2
+    },
+    {
+      "id": "B",
+      "size": 2,
+      "cost": 3
+    },
+    {
+      "id": "C",
+      "size": 3,
+      "cost": 6
+    }
+  ],
+  "mode": "advanced"
+}
+

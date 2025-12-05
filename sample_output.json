@@ -1,0 +1,27 @@
+{
+  "solutionMode": "advanced",
+  "tilesUsed": [
+    {
+      "id": "A",
+      "size": 1,
+      "count": 0,
+      "cost": 0
+    },
+    {
+      "id": "B",
+      "size": 2,
+      "count": 12,
+      "cost": 36
+    },
+    {
+      "id": "C",
+      "size": 3,
+      "count": 0,
+      "cost": 0
+    }
+  ],
+  "totalCost": 36,
+  "explanation": "Advanced mode: Used guillotine DP with mixed tiles. Computed optimal solution for 6x4 rectangle.",
+  "visualization": "Grid visualization (6x4):\n. . . . \n. . . . \n. . . . \n. . . . \n. . . . \n. . . . \n\nLegend: B (2x2) x12; "
+}
+
